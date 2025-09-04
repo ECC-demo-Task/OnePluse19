@@ -1,7 +1,6 @@
 def greet(name):
     print ('Hello', Akshata)
-    print ('Hello', Bindu)
-    
+    print ('Hello', Nisha)
 
 greet('Jack')
 greet('Jill')
